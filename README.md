@@ -1,4 +1,4 @@
-# Conversordepagamento 
+# Conversor de pagamento
 
 _Condigo simples para iniciante_
 
